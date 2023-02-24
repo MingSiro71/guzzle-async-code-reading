@@ -10,7 +10,7 @@
     "autoload": {
         "psr-4": {
             "GuzzleHttp\\": "trace/guzzlehttp/guzzle/src",
-            "GuzzleHttp\\Promise\\": "trace/guzzlehttp/promise/src"
+            "GuzzleHttp\\Promise\\": "trace/guzzlehttp/promises/src"
         }
     }
 }

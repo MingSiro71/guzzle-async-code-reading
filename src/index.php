@@ -28,6 +28,8 @@ function trace(string $message): void
         . $break;
 }
 
+trace('start tracing code.');
+
 $concurrency = 3;
 $client = new Client();
 
